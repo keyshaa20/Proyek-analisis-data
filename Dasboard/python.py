@@ -37,7 +37,7 @@ def create_byweekday_df(df):
 
     return byweekday_df
 
-all_df = pd.read_csv(r'D:/Proyek analisis data/Dashboard/all_data (2).csv')
+all_df = pd.read_csv('all_data (2).csv)
 
 print(all_df)
 
